@@ -1,0 +1,6 @@
+{
+  "name": "HSK 1 語法學習單產生器",
+  "description": "針對 HSK 1 基礎中文 25 項核心語法與例句，自訂生成與下載 Word 檔 (.docx) 學習單，包含精美語法整理、選擇題、填空題、重組題與詳細解答。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
